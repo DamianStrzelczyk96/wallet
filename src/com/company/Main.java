@@ -29,6 +29,7 @@ public class Main {
         System.out.println(ListaOsob);
 
         System.out.println("to jest zmiana");
+        System.out.println("Adi tu był");
         System.out.println("to jest zmiana2");
 	// write your code here
     }
