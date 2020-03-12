@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println(ListaOsob);
 
-
+        System.out.println("to jest zmiana");
 
 	// write your code here
     }
