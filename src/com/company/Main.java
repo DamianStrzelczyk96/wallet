@@ -23,12 +23,13 @@ public class Main {
         janusz.ExChangeToEUR();
         System.out.println(janusz);
         janusz.ExChangeToPLN();
+        janusz.ExChangeToPLN();
         System.out.println(janusz);
 
         System.out.println(ListaOsob);
 
         System.out.println("to jest zmiana");
-
+        System.out.println("to jest zmiana2");
 	// write your code here
     }
 }
